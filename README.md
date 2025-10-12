@@ -9,10 +9,10 @@
 
 ### **使用以下命令运行脚本**
 
-**快捷命令：sb**
+**快捷命令：rl**
 
 ```
-(curl -LfsS https://raw.githubusercontent.com/0xdabiaoge/singbox-lite/main/singbox.sh -o /usr/local/bin/sb || wget -q https://raw.githubusercontent.com/0xdabiaoge/singbox-lite/main/singbox.sh -O /usr/local/bin/sb) && chmod +x /usr/local/bin/sb && sb
+(curl -LfsS https://raw.githubusercontent.com/0xdabiaoge/Realm-Lite/main/realm.sh -o /usr/local/bin/rl || wget -q https://raw.githubusercontent.com/0xdabiaoge/Realm-Lite/main/realm.sh -O /usr/local/bin/rl) && chmod +x /usr/local/bin/rl && rl
 ```
 
 ## **免责声明**
