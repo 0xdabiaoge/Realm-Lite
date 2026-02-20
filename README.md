@@ -1,5 +1,38 @@
 ## **Realm 精简版**
 
+## 💯 本项目顺利落地，特别鸣谢两家提供机器（本排名不分先后顺序）
+
+<div align="center">
+
+<table>
+  <tr>
+    </td>
+    <td align="center" width="220">
+      <a href="https://incudal.com/" target="_blank">
+        <img src="https://incudal.com/incudal_logo.webp" width="100" alt="Incudal" />
+        <br><sub><b>Incudal</b></sub>
+      </a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://lazycats.vip/" target="_blank">
+        <img src="https://lazycats.vip/upload/logo2.png" width="100" alt="懒猫云" />
+        <br><sub><b>懒猫云</b></sub>
+      </a>
+    </td>
+    </td>
+    <td align="center" width="220">
+      <a href="https://fuckip.me/" target="_blank">
+        <img src="https://fuckip.me/res/logo.png" width="100" alt="Incudal" />
+        <br><sub><b>独角鲸</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
 ## 适配标准版以及LXC、KVM等虚拟化的Debian/CentOS/Ubuntu和Alpine，同时支持Docker容器虚拟化的Debian、Alpine，仅在上述系统中测试使用。
 ## 重要提示：通过Docker容器虚拟化出来的系统有个小bug，重启机器后，需要重新进入脚本，重启一遍启动所有规则，才能正常使用。
 
