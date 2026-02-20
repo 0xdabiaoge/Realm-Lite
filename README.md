@@ -26,6 +26,14 @@
         <br><sub><b>独角鲸</b></sub>
       </a>
     </td>
+    </td>
+    </td>
+    <td align="center" width="220">
+      <a href="https://www.lxc.wiki/" target="_blank">
+        <img src="https://www.lxc.wiki/themes/web/starvm-phj/img/logo.png" width="100" alt="Incudal" />
+        <br><sub><b>拼好鸡</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
