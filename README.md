@@ -1,59 +1,15 @@
 ## **Realm 精简版**
 
-## 💯 本项目顺利落地，特别鸣谢两家提供机器（本排名不分先后顺序）
-
-<div align="center">
-
-<table>
-  <tr>
-    </td>
-    <td align="center" width="220">
-      <a href="https://incudal.com/" target="_blank">
-        <img src="https://incudal.com/incudal_logo.webp" width="100" alt="Incudal" />
-        <br><sub><b>Incudal</b></sub>
-      </a>
-    </td>
-    <td align="center" width="220">
-      <a href="https://lazycats.vip/" target="_blank">
-        <img src="https://lazycats.vip/upload/logo2.png" width="100" alt="懒猫云" />
-        <br><sub><b>懒猫云</b></sub>
-      </a>
-    </td>
-    </td>
-    <td align="center" width="220">
-      <a href="https://fuckip.me/" target="_blank">
-        <img src="https://fuckip.me/res/logo.png" width="100" alt="Incudal" />
-        <br><sub><b>独角鲸</b></sub>
-      </a>
-    </td>
-    </td>
-    </td>
-    <td align="center" width="220">
-      <a href="https://www.lxc.wiki/" target="_blank">
-        <img src="https://www.lxc.wiki/themes/web/starvm-phj/img/logo.png" width="100" alt="Incudal" />
-        <br><sub><b>拼好鸡</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-
-## 适配标准版以及LXC、KVM等虚拟化的Debian/CentOS/Ubuntu和Alpine，同时支持Docker容器虚拟化的Debian、Alpine，仅在上述系统中测试使用。
-## 重要提示：通过Docker容器虚拟化出来的系统有个小bug，重启机器后，需要重新进入脚本，重启一遍启动所有规则，才能正常使用。
-
 ## **✨ 功能特性**
 - **灵活配置: 可设置监听所有 IP 地址或绑定到特定的IP和端口。**
 - **TCP & UDP 支持: 轻松配置 TCP 和 UDP 协议的转发规则。**
 
 ### **使用以下命令运行脚本**
 
-**快捷命令：rl**
+**快捷命令：realm**
 
 ```
-(curl -LfsS https://raw.githubusercontent.com/0xdabiaoge/Realm-Lite/main/realm.sh -o /usr/local/bin/rl || wget -q https://raw.githubusercontent.com/0xdabiaoge/Realm-Lite/main/realm.sh -O /usr/local/bin/rl) && chmod +x /usr/local/bin/rl && rl
+(curl -LfsS https://raw.githubusercontent.com/0xdabiaoge/Realm-Lite/main/realm.sh -o /usr/local/bin/realm || wget -q https://raw.githubusercontent.com/0xdabiaoge/Realm-Lite/main/realm.sh -O /usr/local/bin/realm) && chmod +x /usr/local/bin/realm && realm
 ```
 
 ## **免责声明**
